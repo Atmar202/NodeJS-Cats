@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+.image-container {
+    height: 500px;
+    width: 300px;
+}
+
+img {
+    width: auto;
+    height: 100%;
+}
